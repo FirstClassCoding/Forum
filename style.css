@@ -1,0 +1,43 @@
+.mainbg {
+    background-color: #EEEEEE; 
+    font-family: 'Inter', sans-serif;
+}
+.post-content {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 30px;
+    padding-top: 1px;
+    padding-bottom: 12px;
+    box-shadow: 1px 2px 1px 1px #C9C7C7;
+}
+.white-bg {
+    background-color: #FFFFFF;
+}
+.blue-bg {
+    background-color: #CCECFF;
+}
+.header-forum {
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.header-timezone {
+    margin-left: 150px;
+}
+.set-text {
+    vertical-align: top;
+    padding-top: 10px;
+    padding-left: 12px;
+    padding-right: 15px;
+}
+.set-pic {
+    padding-left: 20px;
+    vertical-align: top;
+}
+.author-text {
+    font-size: 14;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #D2D2D2;
+}
